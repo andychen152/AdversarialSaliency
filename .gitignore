@@ -1,3 +1,8 @@
 # Images
 Source/SmoothGrad/images/*
 Source/TGSM/images/*
+Source/FGSM/images/*
+Source/FGSM/output/*
+
+# Inception Pretrained Model
+Source/FGSM/inception_v3.ckpt
