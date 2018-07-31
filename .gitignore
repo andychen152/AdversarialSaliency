@@ -6,3 +6,7 @@ Source/FGSM/output/*
 
 # Inception Pretrained Model
 Source/FGSM/inception_v3.ckpt
+Source/SmoothGrad/inception_v3.ckpt
+Source/SmoothGrad/classify_image_graph_def.pd
+Source/SmoothGrad/imagenet_2012_challenge_label_map_proto.pbtxt
+Source/SmoothGrad/imagenet_synset_to_human_label_map.txt
